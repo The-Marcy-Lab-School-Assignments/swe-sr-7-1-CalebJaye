@@ -14,7 +14,7 @@ React is a popular choice for building user interfaces due to the fact that rend
 Explain how the useState hook is used in React to manage state within functional components. In your response, include an example of how useState might be used in a simple application and why managing state is important in building interactive user interfaces.
 
 ### Response 2
-useState hook is used in React to manage state through a state value in an array and a setter function. When the state changes, useState makes the component re-render to keep up with said changes. Imagine you have a website that shows you a gallery of pictures and allows you to give a thumbs up to the pictures you like. Whenever another person adds a thumbs up, useState makes the component re-render the data so that the number of thumbs up is updated. Managing state is imporant in building interactive user interfaces due to the fact that you probably don't want the data shown on your application to be outdated, incorrect, or anything of the like.
+useState hook is used in React to manage state through a state value in an array and a setter function. When the state changes, useState makes the component re-render to keep up with said changes. Imagine you have a website that shows you a gallery of pictures and allows you to give a thumbs up to the pictures you like. Whenever another person adds a thumbs up, useState makes the component re-render the data so that the number of thumbs up is updated. Managing state is very imporant in building interactive user interfaces due to the fact that you probably don't want the data shown on your application to be outdated, incorrect, or anything of the like.
 
 
 ## Prompt 3 // Xavier
